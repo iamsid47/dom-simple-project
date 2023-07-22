@@ -1,0 +1,50 @@
+body {
+  font-family: "Inter";
+  background-color: #333;
+  color: aliceblue;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
+
+#red {
+  background-color: red;
+}
+
+#blue {
+  background-color: blue;
+}
+
+#green {
+  background-color: green;
+}
+
+#yellow {
+  background-color: yellow;
+}
+
+button {
+  padding: 4px;
+  margin: 5px;
+}
+
+.margin-50 {
+  margin: 50px;
+}
+
+.big-title {
+  font-size: 10rem;
+  color: yellow;
+}
+
+h1 {
+  font-size: 2rem;
+  text-align: center;
+}
+
+h2 {
+  font-size: 1rem;
+  text-align: center;
+}
